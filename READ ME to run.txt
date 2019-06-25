@@ -1,0 +1,6 @@
+To run the app...
+
+First of all unzip and paste all the files in a same folder.
+
+Intermediate files need to be pasted in...
+Ruposhi Barisal (Travel app)\RuposhiBarisal\app\build\intermediates
